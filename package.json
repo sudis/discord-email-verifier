@@ -1,0 +1,22 @@
+{
+  "name": "discord-email-verifier",
+  "version": "1.0.0",
+  "description": "Eposta ile doğrulama sağlayan bir bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magdalena Sude ALAÇATI",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "dayjs": "^1.10.7",
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.2.0",
+    "gcommands": "^9.0.1-next",
+    "mysql2": "^2.3.3",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "yarn": "^1.22.17"
+  }
+}
