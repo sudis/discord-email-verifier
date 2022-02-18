@@ -1,0 +1,30 @@
+{
+    "bot": {
+        "token": "YOUR_TOKEN",
+        "developer_id": "DEVELOPER_ID",
+        "server_id": "DEVELOPER_SERVER_ID",
+        "message_prefix": "ITS_NOT_REQUIRED_BUT_OK"
+    },
+
+    "mysqlDefs": {
+        "host": "MYSQL_HOST",
+        "user": "MYSQL_ROOT",
+        "password": "MYSQL_PASS",
+        "dbName": "MYSQL_DB"
+    },
+
+    "roleDefs": {
+        "unverifiedRole": "UNVERIFIED_ROLE_ID",
+        "verifiedRole": "VERIFIED_ROLE_ID"
+    },
+
+    "emailDefs": {
+        "host": "EXAMPLE_HOST",
+        "port": 587,
+        "secureType": false,
+        "auth": {
+            "user": "EXAMPLE_USER",
+            "password": "EXAMPLE_PASS"
+        }
+    }
+}
