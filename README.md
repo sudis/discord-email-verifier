@@ -9,7 +9,8 @@
 > SMTP ayarlaması yapmak için bazı prosedürleri incelememiz gerekiyor. Ben Gmail'i kullanıyorum. Kullandığımız **Nodemailer** modülü daha az güvenli uygulamalardan birisi sayıldığından dolayı **yeni açacağınız ve SMTP servisi olarak kullanacağınız E-posta**'nızda ayarlardan devre dışı bırakmanız gereken bir seçenek var. [Bu adresten](https://www.google.com/settings/u/2/security/lesssecureapps) daha az güvenli uygulamalar için erişimi açmayı unutmayın.
 
 ![SMTP](https://www.hostinger.web.tr/rehberler/wp-content/uploads/sites/6/2017/04/s1-3.png)
-Ayarlar dosyasında bulunan e-posta ayarlamasını şu şekilde yapabilirsiniz;
+
+> Ayarlar dosyasında bulunan e-posta ayarlamasını şu şekilde yapabilirsiniz;
 
 ```
 "emailDefs": {
